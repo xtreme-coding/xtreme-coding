@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Soubhagya Ranjan Das, sophomore at VSSUT, Burla.
+- 👋 Hi, I’m Soubhagya Ranjan Das, pre-final year B.Tech student at VSSUT, Burla.
 - 👀 I’m interested in Competitive Programming as well as building Full Stack Web Applications with Django Framework.
 - 🌱 I’m currently learning React and Amazon Web Services.
 - 💞️ I’m looking to collaborate on projects built on Django Framework with people having more knowledge and experience than me.
